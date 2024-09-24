@@ -2,6 +2,7 @@
 
 Welcome to the **Message Image Creator**! This project allows you to create a sequence of images representing letters in a message using pre-defined image files for each letter (A-Z), period (.), and space. It's a simple but creative way to generate a visual representation of any text message.
 
+![Message](img.png)
 ---
 
 ## ✨ Features
@@ -44,7 +45,7 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
 1. Clone this repository:
    ```bash
    git clone https://github.com/EsraaMamdouh1/message-image-creator.git
-```
+  ```
 2. Navigate to the project directory:
    ```bash
    cd message-image-creator
