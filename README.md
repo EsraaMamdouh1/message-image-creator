@@ -25,16 +25,6 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
 
 ## 📂 Project Structure
 
-📦 Message-Image-Creator
- ┣ 📂 Alphabet/
- ┃ ┣ 📜 1.jpg
- ┃ ┣ 📜 2.jpg
- ┃ ┗ 📜 ... (Images for A-Z, periods, and spaces)
- ┣ 📂 MESSAGE/ (Generated images will be stored here)
- ┣ 📜 MESSAGE.py (Main Python script)
- ┗ 📜 README.md (This file)
-
-
 - **Alphabet Folder**: Contains images for each character (A-Z), period, and space.
 - **MESSAGE Folder**: Automatically created to store the output images.
 
@@ -49,7 +39,7 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
 2. Navigate to the project directory:
    ```bash
    cd message-image-creator
-```
+   ```
 3. Ensure you have the required image files in the Alphabet folder. The files should be named as 1.jpg for 'A', 2.jpg for 'B', and so on.
 
 ## 🖥️ Usage
