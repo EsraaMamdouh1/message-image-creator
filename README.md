@@ -35,17 +35,15 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
 1. Clone this repository:
    ```bash
    git clone https://github.com/EsraaMamdouh1/message-image-creator.git 
-   cd message-image-creator
-   ```
-   
-3. Ensure you have the required image files in the Alphabet folder. The files should be named as 1.jpg for 'A', 2.jpg for 'B', and so on.
+   cd message-image-creator ```
+2. Ensure you have the required image files in the Alphabet folder. The files should be named as 1.jpg for 'A', 2.jpg for 'B', and so on.
 
 ## 🖥️ Usage
 
 1. Run the script:
    ```bash
-   python MESSAGE.py
-  ```
+   python MESSAGE.py```
+
 2. Enter a message when prompted, using characters **A-Z**, period (**.**), and spaces.
 
 3. The images corresponding to your message will be saved in the `MESSAGE` folder, named in order (e.g., `1_H.jpg`, `2_I.jpg`, etc.).
