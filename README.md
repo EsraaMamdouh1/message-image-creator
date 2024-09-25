@@ -35,30 +35,28 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
 1. Clone this repository:
    ```bash
    git clone https://github.com/EsraaMamdouh1/message-image-creator.git
-  ```
-2. Navigate to the project directory:
-```bash
    cd message-image-creator
   ```
-3. Ensure you have the required image files in the Alphabet folder. The files should be named as 1.jpg for 'A', 2.jpg for 'B', and so on.
+2. Ensure you have the required image files in the Alphabet folder. The files should be named as 1.jpg for 'A', 2.jpg for 'B', and so on.
 
 ## 🖥️ Usage
 
 1. Run the script:
    ```bash
-   python MESSAGE.py
+   python MESSAGE.py 
   ```
-2. Enter a message when prompted, using characters A-Z, period (.), and spaces.
+2. Enter a message when prompted, using characters **A-Z**, period (**.**), and spaces.
 
 3. The images corresponding to your message will be saved in the `MESSAGE` folder, named in order (e.g., `1_H.jpg`, `2_I.jpg`, etc.).
 
 ## 🤖 Error Handling
 
-- - **Invalid characters**: If you enter a character outside A-Z, period, or space, the program will raise a `ValueError`.  
-  *Example:*  
+- **Invalid characters**: If you enter a character outside **A-Z**, period (**.**), or space, the program will raise a `ValueError`.  
+  **Example**:  
   ```plaintext
   Character 'h' is not allowed. Use only A-Z, '.', and space.
-- Missing image files:  If an image for a character is missing, a `FileNotFoundError` will be raised, indicating which image is not found.
+
+- **Missing image files**: If an image for a character is missing, a `FileNotFoundError` will be raised, indicating which image is not found.
 
 ## 👩‍💻 Contributing
 
