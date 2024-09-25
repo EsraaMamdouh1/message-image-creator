@@ -36,12 +36,10 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
    ```bash
    git clone https://github.com/EsraaMamdouh1/message-image-creator.git
   ```
-
 2. Navigate to the project directory:
-   ```bash
+```bash
    cd message-image-creator
-   ```
-
+  ```
 3. Ensure you have the required image files in the Alphabet folder. The files should be named as 1.jpg for 'A', 2.jpg for 'B', and so on.
 
 ## 🖥️ Usage
