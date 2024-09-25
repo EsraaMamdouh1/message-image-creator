@@ -37,7 +37,9 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
    git clone https://github.com/EsraaMamdouh1/message-image-creator.git
    cd message-image-creator
   ```
+
 2. Ensure you have the required image files in the Alphabet folder. The files should be named as 1.jpg for 'A', 2.jpg for 'B', and so on.
+
 
 ## 🖥️ Usage
 
@@ -55,7 +57,6 @@ Welcome to the **Message Image Creator**! This project allows you to create a se
   **Example**:  
   ```plaintext
   Character 'h' is not allowed. Use only A-Z, '.', and space.
-
 - **Missing image files**: If an image for a character is missing, a `FileNotFoundError` will be raised, indicating which image is not found.
 
 ## 👩‍💻 Contributing
